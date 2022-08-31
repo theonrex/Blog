@@ -5,8 +5,8 @@ import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Home from './landingPage'
 import Navbar from "./components/navbar"
 import Footer from "./components/footer"
-import Crud from "./crud"
-import Ndex from './Ndex';
+// import Crud from "./crud"
+// import Ndex from './Ndex';
 //blog
 import BlogAbout from "./components/Blogabout"
 import BlogHome from "./components/BlogHome"
@@ -23,8 +23,8 @@ function App() {
         <Navbar/>
     <Routes>
         <Route exact path='/'  element={<Home />} />
-         <Route exact path='/Crud'  element={<Crud />} />
-            <Route exact path='/Ndex'  element={<Ndex />} />
+         {/* <Route exact path='/Crud'  element={<Crud />} />
+            <Route exact path='/Ndex'  element={<Ndex />} /> */}
             {/* /Blog/ */}
             
             <Route exact path='/home'  element={<BlogHome />} />
