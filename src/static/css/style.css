@@ -4,6 +4,11 @@
 }
 
 /* Specific styles for active links */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
 body {
   background-color: #f6f6f6;
   background-repeat: no-repeat;
@@ -153,6 +158,10 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
   float: left;
 }
 
+.p-tags {
+  margin-bottom: 32px;
+}
+
 .popular {
   padding: 0 20px 20px;
   font-size: 2.5em;
@@ -176,9 +185,15 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
 }
 
 .popular-post-text h2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.popular-post-text h2 {
   font-size: 1.5em;
   color: #00becf;
   text-decoration: underline;
+  margin: 0.8em 0;
 }
 
 @media screen and (max-width: 1000px) {
@@ -293,6 +308,11 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
   border-radius: 12px;
 }
 
+@media screen and (max-width: 1000px) {
+  .col-md-2 h6 {
+    padding-bottom: 20px;
+  }
+}
 footer {
   background-color: #011126;
 }

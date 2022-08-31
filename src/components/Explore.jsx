@@ -83,9 +83,9 @@ function Explore() {
 						</div>
 						<div className="popular-post-text">
 							<h2>Love of Christ</h2>
-							<p>Icons</p>
+							
 						</div>
-						<p>tags</p>
+						<p className="p-tags">tags</p>
 					</div>
 					<div className="col30 popular-post">
 						<div>
@@ -96,9 +96,9 @@ function Explore() {
 						</div>
 						<div className="popular-post-text">
 							<h2>Love of Christ</h2>
-							<p>Icons</p>
+							
 						</div>
-						<p>tags</p>
+						<p className="p-tags">tags</p>
 					</div>
 					<div className="col30 popular-post">
 						<div>
@@ -109,9 +109,8 @@ function Explore() {
 						</div>
 						<div className="popular-post-text">
 							<h2>Love of Christ</h2>
-							<p>Icons</p>
 						</div>
-						<p>tags</p>
+						<p className="p-tags">tags</p>
 					</div>
 				</div>
 				<div className="rowx">
@@ -124,9 +123,9 @@ function Explore() {
 						</div>
 						<div className="popular-post-text">
 							<h2>Love of Christ</h2>
-							<p>Icons</p>
+							
 						</div>
-						<p>tags</p>
+						<p className="p-tags">tags</p>
 					</div>
 					<div className="col30 popular-post">
 						<div>
@@ -137,9 +136,9 @@ function Explore() {
 						</div>
 						<div className="popular-post-text">
 							<h2>Love of Christ</h2>
-							<p>Icons</p>
+							
 						</div>
-						<p>tags</p>
+						<p className="p-tags">tags</p>
 					</div>
 					<div className="col30 popular-post">
 						<div>
@@ -150,9 +149,9 @@ function Explore() {
 						</div>
 						<div className="popular-post-text">
 							<h2>Love of Christ</h2>
-							<p>Icons</p>
+							
 						</div>
-						<p>tags</p>
+						<p className="p-tags">tags</p>
 					</div>
 				</div>
 			</div>

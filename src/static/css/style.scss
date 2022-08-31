@@ -14,7 +14,10 @@ $darkblue: #2b00ffd8;
 
 /* Specific styles for active links */
 
-
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
       
 
 
@@ -184,6 +187,10 @@ background: #2b00ffd8;
     width: 28%;
     float: left;
 }
+
+.p-tags  { 
+    margin-bottom: 32px;
+}
 .popular{
         padding: 0 20px 20px ;
         font-size: 2.5em;
@@ -205,11 +212,16 @@ background: #2b00ffd8;
 .popular-post p {
         padding: 0 20px;
 }
+.popular-post-text h2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 .popular-post-text h2{
     font-size: 1.5em;
     color: $lightblue;
     text-decoration: underline;
+    margin: 0.8em 0;
 
 }
 
@@ -349,7 +361,12 @@ margin: auto 2%;
 }
 
 
-
+//footer
+@media screen and (max-width:1000px){
+    .col-md-2 h6{
+        padding-bottom: 20px;
+    }
+}
 
 
 footer{

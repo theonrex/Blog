@@ -4,7 +4,7 @@ import React from "react";
 function App() {
 	return (
 		<div className="">
-			<div class="">
+			<div className="">
 				{/* Footer  */}
 				<footer className="text-center text-white">
 					{/* Grid container  */}
@@ -37,7 +37,7 @@ function App() {
 								{/* Grid column  */}
 
 								{/* Grid column  */}
-							
+
 								{/* Grid column  */}
 
 								{/* Grid column  */}
@@ -80,7 +80,7 @@ function App() {
 							</div>
 						</section>
 						{/* Section: Text  */}
-						Social Media
+						Social Media <br />
 						<br />
 						<section className="text-center mb-5">
 							<a href="/#" className="text-white me-4">
@@ -90,10 +90,10 @@ function App() {
 								<i className="fab fa-google"></i>
 							</a>
 							<a href="/#" className="text-white me-4">
-								<i class="fa-solid fa-phone"></i>{" "}
+								<i className="fa-solid fa-phone"></i>{" "}
 							</a>{" "}
 							<a href="/#" className="text-white me-4">
-								<i class="fa-brands fa-whatsapp"></i>{" "}
+								<i className="fa-brands fa-whatsapp"></i>{" "}
 							</a>
 						</section>
 						{/* Section: Social  */}
@@ -102,7 +102,7 @@ function App() {
 					<div className="text-center p-3">
 						© 2020 Copyright:{" "}
 						<a className="text-white" href="/#">
-							solaaremu
+							rexblog
 						</a>
 					</div>
 					Designed by{" "}

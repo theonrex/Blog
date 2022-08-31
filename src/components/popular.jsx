@@ -48,7 +48,7 @@ function Popular() {
 						<h2>Love </h2>
 						<p>We all want to know Christ sooner or later. It's up to us to get introduced to Him and learn what it is He has in store for us.</p>
 					</div>
-					<p> <Link to="www.google.com"> google
+					<p className="p-tags"> <Link to="www.google.com"> google
 					</Link> </p>
 				</div>
 				<div className="col30 popular-post">
@@ -62,7 +62,7 @@ function Popular() {
 						<h2>Love of Christ</h2>
 						<p>We all want to know Christ sooner or later. It's up to us to get introduced to Him and learn what it is He has in store for us.</p>
 					</div>
-					<p>tags</p>
+					<p className="p-tags">tags</p>
 				</div>{" "}
 				<div className="col30 popular-post">
 					<div >
@@ -75,7 +75,7 @@ function Popular() {
 						<h2>Love of Christ</h2>
 						<p>We all want to know Christ sooner or later. It's up to us to get introduced to Him and learn what it is He has in store for us.</p>
 					</div>
-					<p>tags</p>
+					<p className="p-tags">tags</p>
 				</div>
 			</div>
 			{/* <button
