@@ -24,7 +24,7 @@ function NavHead() {
 				{["xl"].map((expand) => (
 					<Navbar key={expand} expand={expand} className="mb-3 container">
 						<Container fluid>
-							<Navbar.Brand href="#">Rex-Aremu Blog</Navbar.Brand>
+							<Navbar.Brand href="/">Rex-Aremu Blog</Navbar.Brand>
 							<Navbar.Toggle
 								aria-controls={`offcanvasNavbar-expand-${expand}`}
 							/>
