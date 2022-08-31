@@ -29,7 +29,7 @@
 
 }
 .dark__mode .navbar-light .navbar-toggler-icon {
-filter: invert(1);
+
 opacity: 1;
 }
 
