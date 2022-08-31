@@ -2,12 +2,7 @@
     background-color: white !important;
 }
 
-.light__mode,
-     .btn-close {
-    background-color: #2b00ffd8;
-    opacity: 1;
 
-}
 .dark__mode{
         background-color: #071b36 !important;
         color: white !important;
@@ -44,9 +39,18 @@ opacity: 1;
 
 }
 .dark__mode .btn-close {
- background-color: white;
- opacity: 1;
-   
+ background-color: white !important;   
+}
+.dark__mode .offcanvas-header .btn-close{
+     background-color: white !important;   
+
+
+}
+
+.light__mode .btn-close {
+    background-color: #2b00ffd8 !important;
+    
+
 }
 .container-fluid{
     padding-top: 25px ;
