@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.wrapper h1 {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.wrapper p {
+    text-align: center;
+    margin-top: 7px;
+    font-weight: bold;
+}
+
+.wrapper .main {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.wrapper .form-container {
+    width: 500px;
+    height: 340px;
+    background-color: #e4e4e4;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.wrapper .form-container .btn {
+    width: 100%;
+}
+
+.wrapper .view-container {
+    width: 600px;
+    background-color: #e4e4e4;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.delete-btn {
+    color: red;
+    cursor: pointer;
+}
+
+tbody {
+    margin-top: 25px;
+}
+
+/* / */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.app-header {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.task {
+    background: #f4f4f4;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textBold {
+    font-weight: bold;
+}
+
+.delIcon {
+    color: red;
+    cursor: pointer;
+}
+
+.editIcon {
+    color: blue;
+    cursor: pointer;
+}
+
+.spinnerContainer {
+    margin: 20% auto;
+    max-width: 15%;
+}
