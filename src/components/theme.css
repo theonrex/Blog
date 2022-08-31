@@ -1,6 +1,13 @@
 .light__mode{
     background-color: white !important;
 }
+
+.light__mode,
+     .btn-close {
+    background-color: #2b00ffd8;
+    opacity: 1;
+
+}
 .dark__mode{
         background-color: #071b36 !important;
         color: white !important;
@@ -37,8 +44,8 @@ opacity: 1;
 
 }
 .dark__mode .btn-close {
-  filter: invert(1);
-    color: #fff;
+ background-color: white;
+ opacity: 1;
    
 }
 .container-fluid{

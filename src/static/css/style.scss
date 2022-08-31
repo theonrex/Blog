@@ -64,6 +64,7 @@ background: #2b00ffd8;
 }
 
 
+
 // .navbar-bg,
 // .Navbar {
 //     background-color: #f6f6f6 ;
@@ -524,6 +525,7 @@ display: block;
     width: 100%;
 }
 //author media
+
 @media screen and (max-width:1000px) {
     .post-Title {
         font-size: 3em;
@@ -535,9 +537,15 @@ display: block;
     }
 
 }
-@media screen and (max-width:350px) {
+@media screen and (max-width:500px) {
     .post-Title {
         font-size: 2em;
+        padding: 10px 0;
+    }
+}
+@media screen and (max-width:350px) {
+    .post-Title {
+        font-size: 1.5em;
         padding: 10px 0;
     }
 
