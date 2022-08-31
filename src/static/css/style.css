@@ -160,6 +160,7 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
 
 .p-tags {
   margin-bottom: 32px;
+  margin-top: 22px;
 }
 
 .popular {
@@ -186,7 +187,6 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
 
 .popular-post-text h2 {
   padding-top: 15px;
-  padding-bottom: 15px;
 }
 
 .popular-post-text h2 {
