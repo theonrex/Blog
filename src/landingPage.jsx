@@ -1,14 +1,14 @@
 import React from "react";
 // import "./static/css/style.css";
 //styles
-import "./index.css";
+// import "./index.css";
 import "./static/css/style.css"
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import MyCrud from "./myCrud";
+// import MyCrud from "./myCrud";
 
 //images
-import Furniture from "./static/images/furniture.png"
+// import Furniture from "./static/images/furniture.png"
 
 
 //pages
@@ -42,7 +42,7 @@ function App() {
 				<div className="col50 bible">
 					<img
 						src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-						alt="image"
+						alt="unsplash-img"
 					/>
 				</div>
 			</div>

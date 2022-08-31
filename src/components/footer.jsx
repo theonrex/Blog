@@ -83,16 +83,16 @@ function App() {
 						Social Media
 						<br />
 						<section className="text-center mb-5">
-							<a href="" className="text-white me-4">
+							<a href="/#" className="text-white me-4">
 								<i className="fab fa-facebook-f"></i>
 							</a>
-							<a href="" className="text-white me-4">
+							<a href="/#" className="text-white me-4">
 								<i className="fab fa-google"></i>
 							</a>
-							<a href="" className="text-white me-4">
+							<a href="/#" className="text-white me-4">
 								<i class="fa-solid fa-phone"></i>{" "}
 							</a>{" "}
-							<a href="" className="text-white me-4">
+							<a href="/#" className="text-white me-4">
 								<i class="fa-brands fa-whatsapp"></i>{" "}
 							</a>
 						</section>

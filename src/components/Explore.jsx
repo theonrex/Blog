@@ -7,7 +7,7 @@ function Explore() {
 				<div className="col50 bible">
 					<img
 						src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-						alt="image"
+						alt="un"
 					/>
 				</div>
 				<div className="col50 explore-mg">
@@ -27,14 +27,20 @@ function Explore() {
 							<div className=" explore-icons ">
 								<div className="img">
 									{" "}
-									<img src="https://img.icons8.com/ios-filled/100/000000/church.png" />
+									<img
+										src="https://img.icons8.com/ios-filled/100/000000/church.png"
+										alt="un"
+									/>
 								</div>{" "}
 								<h2>Holiness</h2>
 							</div>
 							<div className="  explore-icons">
 								<div className="img">
 									{" "}
-									<img src="https://img.icons8.com/ios-filled/100/000000/church.png" />
+									<img
+										src="https://img.icons8.com/ios-filled/100/000000/church.png"
+										alt="un"
+									/>
 								</div>{" "}
 								<h2>Faith</h2>
 							</div>
@@ -43,14 +49,20 @@ function Explore() {
 							<div className="  explore-icons">
 								<div className="img">
 									{" "}
-									<img src="https://img.icons8.com/ios-filled/100/000000/church.png" />
+									<img
+										src="https://img.icons8.com/ios-filled/100/000000/church.png"
+										alt="un"
+									/>
 								</div>{" "}
 								<h2>Fellowship</h2>
 							</div>
 							<div className="  explore-icons">
 								<div className="img">
 									{" "}
-									<img src="https://img.icons8.com/ios-filled/100/000000/church.png" />
+									<img
+										src="https://img.icons8.com/ios-filled/100/000000/church.png"
+										alt="un"
+									/>
 								</div>{" "}
 								<h2>Love</h2>
 							</div>
@@ -66,7 +78,7 @@ function Explore() {
 						<div>
 							<img
 								src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-								alt=""
+								alt="un"
 							/>
 						</div>
 						<div className="popular-post-text">
@@ -79,7 +91,7 @@ function Explore() {
 						<div>
 							<img
 								src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-								alt=""
+								alt="un"
 							/>
 						</div>
 						<div className="popular-post-text">
@@ -92,7 +104,7 @@ function Explore() {
 						<div>
 							<img
 								src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-								alt=""
+								alt="un"
 							/>
 						</div>
 						<div className="popular-post-text">
@@ -107,7 +119,7 @@ function Explore() {
 						<div>
 							<img
 								src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-								alt=""
+								alt="un"
 							/>
 						</div>
 						<div className="popular-post-text">
@@ -120,7 +132,7 @@ function Explore() {
 						<div>
 							<img
 								src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-								alt=""
+								alt="un"
 							/>
 						</div>
 						<div className="popular-post-text">
@@ -133,7 +145,7 @@ function Explore() {
 						<div>
 							<img
 								src="https://images.unsplash.com/photo-1593485589800-579b43749b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlibGUlMjBzdG9yeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-								alt=""
+								alt="un"
 							/>
 						</div>
 						<div className="popular-post-text">
