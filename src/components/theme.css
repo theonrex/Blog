@@ -1,0 +1,37 @@
+.light__mode{
+    background-color: white !important;
+}
+.dark__mode{
+        background-color: #071b36 !important;
+        color: white !important;
+}
+.dark__mode .nav-link,
+.dark__mode h1,
+.dark__mode h2,
+.dark__mode h3,
+.dark__mode h4,
+.dark__mode h5,
+.dark__mode h6,
+.dark__mode p,
+.dark__mode header  {
+            color: white !important;
+}
+
+.dark__mode .popular-post-text h2 {
+    color: #00becf !important;
+    text-decoration: underline;
+}
+.dark__mode .Treading span {
+    color: rgb(255, 255, 255) !important;
+    -webkit-text-fill-color: #ffffff;
+        -webkit-background-clip: text;
+
+}
+
+.dark__mode .active {
+    color: #2b00ffd8 !important;
+}
+
+.dark__mode .nav-link:hover {
+    color: blue !important;
+}
