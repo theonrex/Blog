@@ -58,10 +58,11 @@ background: #2b00ffd8;
 
 //Nav_bar
 .navbar-light .navbar-toggler {
-    color: #1887e18c;
-    border-color: rgb(255 0 0 / 97%);
-    border-color: rgb(219 16 16 / 69%);
+    color: #ffffff8c !important;
+    border-color: rgba(255, 255, 255, 0.97) !important;
+    border-color: rgba(255, 255, 255, 0.69) !important ;
 }
+
 
 // .navbar-bg,
 // .Navbar {
@@ -155,13 +156,13 @@ background: #2b00ffd8;
         width: 100%;
     }
         .landing-page p {
-            font-size: 2.9vw;
+            font-size: 3.5vw;
             
             text-align: center;
         }
                 .Treading {
                     font-family: "Cabin", sans-serif;
-                    font-size: 7vw;
+                    font-size: 10vw;
                     text-align: center;
                     font-weight: 900;
                     // text-transform: uppercase;

@@ -16,6 +16,15 @@
 .dark__mode header  {
             color: white !important;
 }
+.dark__mode .offcanvas-header,
+.dark__mode .offcanvas-body {
+    background-color: #071b36;
+
+}
+.dark__mode .navbar-light .navbar-toggler-icon {
+filter: invert(1);
+opacity: 1;
+}
 
 .dark__mode .popular-post-text h2 {
     color: #00becf !important;
@@ -27,7 +36,31 @@
         -webkit-background-clip: text;
 
 }
+.dark__mode .btn-close {
+  filter: invert(1);
+    color: #fff;
+   
+}
+.container-fluid{
+    padding-top: 25px ;
+}
+svg{
+    width: 2em;
+    height: 2em;
+}
 
+.dark__mode .navbar-light .navbar-brand {
+        background: #2b00ffd8;
+            background: linear-gradient(to right, #00becf 22%, #2b00ffd8 74%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+}
+
+.dark__mode .navbar-light .navbar-toggler {
+    color: transparent !important;
+    border-color: rgb(255, 255, 255) !important;
+    border-color: rgb(255, 255, 255) !important;
+}
 .dark__mode .active {
     color: #2b00ffd8 !important;
 }

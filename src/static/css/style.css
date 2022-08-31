@@ -46,9 +46,9 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
 }
 
 .navbar-light .navbar-toggler {
-  color: rgba(24, 135, 225, 0.5490196078);
-  border-color: rgba(255, 0, 0, 0.97);
-  border-color: rgba(219, 16, 16, 0.69);
+  color: rgba(255, 255, 255, 0.5490196078) !important;
+  border-color: rgba(255, 255, 255, 0.97) !important;
+  border-color: rgba(255, 255, 255, 0.69) !important;
 }
 
 .active {
@@ -131,12 +131,12 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
     width: 100%;
   }
   .landing-page p {
-    font-size: 2.9vw;
+    font-size: 3.5vw;
     text-align: center;
   }
   .Treading {
     font-family: "Cabin", sans-serif;
-    font-size: 7vw;
+    font-size: 10vw;
     text-align: center;
     font-weight: 900;
   }
