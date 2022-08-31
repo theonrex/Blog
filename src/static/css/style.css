@@ -193,7 +193,6 @@ h1, h2, h3, h4, h5, h6, p, span, header, article {
   font-size: 1.5em;
   color: #00becf;
   text-decoration: underline;
-  margin: 0.8em 0;
 }
 
 @media screen and (max-width: 1000px) {
